@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/OS-Kali%20Linux-00ff7f?logo=kalilinux&logoColor=000" />
   <img src="https://img.shields.io/badge/From-Jamaica-00ff7f" />
 </p>
+<h1 align="center" style="color:#00ff7f;">CONTACT ME</h1>
 
 <p align="center">
   <a href="mailto:maosatom19@gmail.com"><img src="https://img.shields.io/badge/Email%201-00ff7f?style=for-the-badge&logo=gmail&logoColor=000" /></a>
