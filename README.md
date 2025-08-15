@@ -22,5 +22,12 @@
   <a href="https://instagram.com/dr_.pino"><img src="https://img.shields.io/badge/Instagram-00ff7f?style=for-the-badge&logo=instagram&logoColor=000" /></a>
 </p>
 
+## 📡 Contact Me
+
+- ![Gmail](https://img.icons8.com/ios-filled/20/00ff7f/gmail.png) **Email 1:** [maosatom19@gmail.com](mailto:maosatom19@gmail.com)  
+- ![Gmail](https://img.icons8.com/ios-filled/20/00ff7f/gmail.png) **Email 2:** [gamerpino90@gmail.com](mailto:gamerpino90@gmail.com)  
+- ![WhatsApp](https://img.icons8.com/ios-filled/20/00ff7f/whatsapp.png) **WhatsApp 1:** [+254 796 883 243](https://wa.me/254796883243)  
+- ![WhatsApp](https://img.icons8.com/ios-filled/20/00ff7f/whatsapp.png) **WhatsApp 2:** [+254 751 506 469](https://wa.me/254751506469)  
+- ![Instagram](https://img.icons8.com/ios-filled/20/00ff7f/instagram-new.png) **Instagram:** [dr_.pino](https://instagram.com/dr_.pino)
 
 
