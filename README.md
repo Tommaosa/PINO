@@ -12,14 +12,7 @@
   <img src="https://img.shields.io/badge/OS-Kali%20Linux-00ff7f?logo=kalilinux&logoColor=000" />
   <img src="https://img.shields.io/badge/From-Jamaica-00ff7f" />
 </p>
-## 📡 Contact Me
-<p align="center">
-  <a href="mailto:maosatom19@gmail.com"><img src="https://img.shields.io/badge/Email%201-00ff7f?style=for-the-badge&logo=gmail&logoColor=000" /></a>
-  <a href="mailto:gamerpino90@gmail.com"><img src="https://img.shields.io/badge/Email%202-00ff7f?style=for-the-badge&logo=gmail&logoColor=000" /></a>
-  <a href="https://wa.me/254796883243"><img src="https://img.shields.io/badge/WhatsApp%201-00ff7f?style=for-the-badge&logo=whatsapp&logoColor=000" /></a>
-  <a href="https://wa.me/254751506469"><img src="https://img.shields.io/badge/WhatsApp%202-00ff7f?style=for-the-badge&logo=whatsapp&logoColor=000" /></a>
-  <a href="https://instagram.com/dr_.pino"><img src="https://img.shields.io/badge/Instagram-00ff7f?style=for-the-badge&logo=instagram&logoColor=000" /></a>
-</p>
+
 ---
 
 ```ansi
@@ -34,7 +27,13 @@
 [0;32m│ |__/  |__/   \___/  \______/  \______/                                 │
 [0;32m└─────────────────────────────────────────────────────────────────────────┘
 [0m```
+<p align="center">
+  <a href="mailto:maosatom19@gmail.com"><img src="https://img.shields.io/badge/Email%201-00ff7f?style=for-the-badge&logo=gmail&logoColor=000" /></a>
+  <a href="mailto:gamerpino90@gmail.com"><img src="https://img.shields.io/badge/Email%202-00ff7f?style=for-the-badge&logo=gmail&logoColor=000" /></a>
+  <a href="https://wa.me/254796883243"><img src="https://img.shields.io/badge/WhatsApp%201-00ff7f?style=for-the-badge&logo=whatsapp&logoColor=000" /></a>
+  <a href="https://wa.me/254751506469"><img src="https://img.shields.io/badge/WhatsApp%202-00ff7f?style=for-the-badge&logo=whatsapp&logoColor=000" /></a>
+  <a href="https://instagram.com/dr_.pino"><img src="https://img.shields.io/badge/Instagram-00ff7f?style=for-the-badge&logo=instagram&logoColor=000" /></a>
+</p>
 
----
 
 
