@@ -1,0 +1,77 @@
+{
+  "name": "pino",
+  "version": "1.0.0",
+  "description": "Pino, a WhatsApp Bot built with NodeJs and Baileys for automated messaging and interaction",
+  "website": "https://github.com/Tommaosa/PINO",
+  "logo": "https://files.catbox.moe/your-logo-link.jpg",
+  "keywords": ["pino", "whatsapp-bot", "nodejs", "baileys", "chatbot"],
+  "repository": "https://github.com/Tommaosa/PINO",
+  "success_url": "/",
+  "stack": "heroku-20",
+  "env": {
+    "SESSION_PATH": {
+      "description": "Folder where the bot will store authentication credentials (auto-generated if missing)",
+      "required": true,
+      "value": "./auth"
+    },
+    "MODE": {
+      "description": "Bot mode: 'public' (all chats), 'inbox' (PM only), 'private' (owner only). Default: 'public'.",
+      "required": false,
+      "value": "public"
+    },
+    "OWNER_NAME": {
+      "description": "Owner name for bot responses",
+      "required": true,
+      "value": "Pino"
+    },
+    "OWNER_NUMBER": {
+      "description": "Owner phone number (international format, e.g., 254xxxxxxx)",
+      "required": true,
+      "value": "25451506469"
+    },
+    "AUTO_READ_STATUS": {
+      "description": "Set 'true' to auto-view WhatsApp statuses",
+      "required": true,
+      "value": "true"
+    },
+    "AUTO_REPLY_STATUS": {
+      "description": "Set 'true' to auto-reply after viewing status",
+      "required": false,
+      "value": "false"
+    },
+    "STATUS_REPLY_MSG": {
+      "description": "Message sent after viewing status",
+      "required": false,
+      "value": "Status Viewed ✅"
+    },
+    "PRESENCE": {
+      "description": "Set bot presence: 'online', 'typing', 'recording', or 'null'. Default: 'online'",
+      "required": true,
+      "value": "online"
+    },
+    "BOT_NAME": {
+      "description": "Bot display name",
+      "required": false,
+      "value": "𝐏𝐈𝐍𝐎"
+    },
+    "PREFIX": {
+      "description": "Command prefix for bot features",
+      "required": true,
+      "value": "."
+    },
+    "BOT_ACTIVE": {
+      "description": "Initial status of the bot features (true = active, false = paused). Can be toggled with 'start bot' / 'stop bot'.",
+      "required": true,
+      "value": "false"
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "buildpacks": [
+    { "url": "heroku/nodejs" }
+  ]
+}

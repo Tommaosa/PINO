@@ -1,0 +1,24 @@
+{
+  "name": "pino-tb",
+  "version": "1.0.0",
+  "description": "PINO-TB - A Multi-Device WhatsApp Bot by Tom Maosa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tom Maosa",
+  "license": "Proprietary",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tommaosa/PINO"
+  },
+  "bugs": {
+    "url": "https://github.com/Tommaosa/PINO/issues"
+  },
+  "homepage": "https://github.com/Tommaosa/PINO#readme",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "pm2": "^5.3.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
